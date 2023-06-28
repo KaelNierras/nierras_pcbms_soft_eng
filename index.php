@@ -12,8 +12,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet" />
     <style>
         body {
-            background-image: url('../images/vsu-01.jpg');
-            background-size: cover;
+            background-image: url('../images/bgimage.jpg');
+            background-size: 100% auto;
         }
 
         .container {
@@ -48,10 +48,6 @@
             color: #fff;
         }
 
-        .form-group {
-            margin-bottom: 15px;
-        }
-
         .icon {
             max-width: 100px;
             max-height: 100px;
@@ -71,8 +67,7 @@
     <div class="container">
         <div class="row h-100 justify-content-center align-items-center">
             <div class="col-12 text-center">
-                <?php include "login/Login_2.php"; ?>
-                
+                <?php include "login/Login.php"; ?>  
             </div>
         </div>
         <?php include "footers/footer.php"; ?>
