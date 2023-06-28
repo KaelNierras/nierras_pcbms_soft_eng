@@ -77,6 +77,7 @@
             </h1>
             <p class='text-light'>
             The Pasalubong Center Business Management Web Application is a secure platform that simplifies business operations for pasalubong centers. It offers streamlined login access for authorized personnel, cashiers, and managers. Users can efficiently manage inventory, track sales, process transactions, generate reports, and oversee overall operations. With a user-friendly interface, the application enhances efficiency, optimizes inventory, and enables data-driven decision-making for sustainable growth.
+            
             </p>  
           </div>
             </div>
