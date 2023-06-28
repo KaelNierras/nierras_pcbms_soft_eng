@@ -1,0 +1,61 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand{
+    color: white!important;
+}
+
+.navbar {
+    background: #00b09b;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #96c93d, #00b09b);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-weight: bold;
+    font-size: large;
+    color: #ffffff !important;
+    padding: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+    .nav-item {
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        border-radius: 10px;
+
+        .nav-link {
+            color: #ffffff !important;
+        }
+
+    }
+
+
+    .dropdown:hover, .homepage:hover {
+        background-color: #017e70 !important;
+        transition: 0.2s;
+    }
+
+    .logout:hover {
+        background-color: #dc3545 !important;
+        transition: 0.2s;
+    }
+
+    .dropdown-item:hover{
+        background-color: #dbdbdb !important;
+    }
+}   
+
+.navbar-brand{  
+    font-weight: bold!important;
+}
+
+.NameTime {
+    background-color: #062a66 !important;
+    color: #ffffff !important;
+    padding: 0.5rem 0rem;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #5cb85c;
+    border-color: #00a900;
+}
